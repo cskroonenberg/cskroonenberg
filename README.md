@@ -1,4 +1,6 @@
- <!--![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cskroonenberg)-->
+Interested in building a better future with machine learning and AI.
+
+<!--![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cskroonenberg)-->
 
 ![](https://github.com/cskroonenberg/cskroonenberg/blob/master/generated/languages.svg)
 <br>
